@@ -1,5 +1,5 @@
 This is the project for UIUC CS course: CS425 -- Distributed Systems.
-Collaborators: Neha Chaueb and Yungsheng Wei
+Collaborators: Neha Chaube and Yungsheng Wei
 We will build a distributed stream processing system in 4 stages.
 
 Some global descriptions are as following:
